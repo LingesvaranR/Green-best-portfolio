@@ -12,7 +12,7 @@ export function AboutSection() {
           <p className="text-xl md:text-2xl text-portfolio-gray font-light leading-relaxed">
             UI/UX Designer focused on <span className="text-portfolio-green">layout clarity</span>, 
             responsive UI, and user-first thinking. I use Figma, Adobe XD, and code-ready handoffs 
-            via HTML/CSS. I also create visual stories through <span className="text-portfolio-green">video editing</span>.
+            via HTML. I also create visual stories through <span className="text-portfolio-green">video editing</span>.
           </p>
         </div>
 
